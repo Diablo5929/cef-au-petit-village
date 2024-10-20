@@ -1,0 +1,12 @@
+.btn-primary {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #fdd90b;
+  --bs-btn-border-color: #fdd90b;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #ceb007;
+  --bs-btn-hover-border-color: #ceb007;
+}
+
+.form-control {
+  --bs-body-color: #151217;
+}
